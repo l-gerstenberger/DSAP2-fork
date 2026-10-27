@@ -1,0 +1,13 @@
+//
+// Created by Leahz on 10/27/2026.
+//
+
+#ifndef DREAM_STEAM_A_TEAM_DSA_PROJECT_2__USERINTERFACE_H
+#define DREAM_STEAM_A_TEAM_DSA_PROJECT_2__USERINTERFACE_H
+
+
+class userinterface {
+};
+
+
+#endif //DREAM_STEAM_A_TEAM_DSA_PROJECT_2__USERINTERFACE_H
